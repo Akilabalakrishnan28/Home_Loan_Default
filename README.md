@@ -30,15 +30,14 @@ The dataset is not included.
 
 ### Sample Visualizations
 
-#### 1. Applicant Financial Distribution
+#### Income vs Credit
 ![Income vs Credit](images/1.png)
 
-#### 2. Employment vs Default
+#### Years Employed Distribution
 ![Years Employed](images/2.png)
 
-#### 3. Gender Distribution
+#### Gender Count
 ![Gender Count](images/3.png)
-
 ---
 
 ### Models Used
