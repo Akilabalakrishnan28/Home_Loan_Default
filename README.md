@@ -31,13 +31,14 @@ The dataset is not included.
 ### Sample Visualizations
 
 #### Income vs Credit
-![Income vs Credit](images/1.png)
+![Income vs Credit](Images/1.png)
 
 #### Years Employed Distribution
-![Years Employed](images/2.png)
+![Years Employed](Images/2.png)
 
 #### Gender Count
-![Gender Count](images/3.png)
+![Gender Count](Images/3.png)
+
 ---
 
 ### Models Used
